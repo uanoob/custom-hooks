@@ -1,6 +1,6 @@
 import React from 'react';
 import { Card } from '../Elements';
-import { useHover } from '../hooks/useHover';
+import { useHover } from '../hooks';
 import black from '../black.png';
 
 const Hover = () => {
