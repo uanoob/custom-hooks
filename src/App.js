@@ -8,6 +8,7 @@ import Inc from './components/Inc';
 import Mount from './components/Mount';
 import Hover from './components/Hover';
 import Nav from './components/Nav';
+import Cookie from './components/Cookie';
 import blue from './blue.png';
 import purp from './purp.png';
 import black from './black.png';
@@ -27,6 +28,7 @@ function App() {
           <Toggle />
           <Inc />
           <Mount />
+          <Cookie />
           <Hover />
           <CardGrid>
             <Card style={{ background: 'var(--purp)' }}>
